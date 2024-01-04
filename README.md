@@ -1,4 +1,5 @@
 # Hi there👋,I'm Yurii Petrovskyi
+## A enthusiastic frontend developer from Ukraine, Kyiv
 
 
 <!--A enthusiastic frontend developer from Ukraine, Kyiv
