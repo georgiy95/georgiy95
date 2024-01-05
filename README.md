@@ -13,10 +13,6 @@
 
 <a href="https://www.linkedin.com/in/yurii-petrovskyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
 
-<br>
-<br>
-<br>
-
 ### My skills and tools:
 <div>
  <img src=".//img/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
