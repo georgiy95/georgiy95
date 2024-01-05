@@ -7,12 +7,15 @@
 
 #### I am a Front-end developer. My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript, React, and Node.js.. I have a huge desire to develop cool and useful products. I am ready for challenges, and I am not afraid of difficult tasks. I value honesty at work and am always open to cooperation.
 
-
+ <img align="right" src=".//img/deweloper.gif" width ="50%"/> 
 
 <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/yurii-petrovskyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/yurii-petrovskyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
 
+<br>
+<br>
+<br>
 
 ### My skills and tools:
 <div>
@@ -35,7 +38,4 @@
   <img src=".//img/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src=".//img/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 </div>
-
-
- <img src=".//img/deweloper.gif" width ="100%"/> 
 
