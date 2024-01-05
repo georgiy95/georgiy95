@@ -11,8 +11,27 @@
 
 <a href="https://www.linkedin.com/in/yurii-petrovskyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marharyta-herasymenko" height="30" width="40" /></a>
 
-### MY SKILLS
-<p align="left"> </a> </a> <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <a href="https://sass-lang.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
+### My skills and tools:
+<div>
+ <img src=".//img/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+ <img src=".//img/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src=".//img/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+     <img src=".//img/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+      <img src=".//img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+     <img src=".//img/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+     <img src=".//img/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src=".//img/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src=".//img/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src=".//img/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src=".//img/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src=".//img/Typescript_logo_2020.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src=".//img/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+    <img src=".//img/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; 
+  <img src=".//img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
+  <img src=".//img/parsel.avif" title="Parcel" alt="Parcel" width="50" height="40"/>&nbsp;
+  <img src=".//img/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+  <img src=".//img/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+</div>
 
 
  <img src=".//img/deweloper.gif" width ="100%"/> 
