@@ -7,7 +7,7 @@
 
 #### I am a Front-end developer. My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript, React, and Node.js. and others. I have a huge desire to develop cool and useful products. I am ready for challenges, and I am not afraid of difficult tasks. I value honesty at work and am always open to cooperation.
 
- <img align="right" src=".//img/deweloper.gif" width ="35%"/> 
+ <img align="right" src=".//img/deweloper.gif" width ="50%"/> 
 
 <h3>Connect with me:</h3>
 
