@@ -5,11 +5,14 @@
 # Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Yurii Petrovskyi</h1>
 ## A enthusiastic frontend developer from Kyiv, Ukraine⚡
 
-### My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript, React, and Node.js. 
+#### I am a Front-end developer. My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript, React, and Node.js.. I have a huge desire to develop cool and useful products. I am ready for challenges, and I am not afraid of difficult tasks. I value honesty at work and am always open to cooperation.
+
+
 
 <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/yurii-petrovskyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marharyta-herasymenko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yurii-petrovskyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+
 
 ### My skills and tools:
 <div>
