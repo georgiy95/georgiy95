@@ -11,7 +11,7 @@
 
 <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/yurii-petrovskyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/yurii-petrovskyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="70" width="70" /></a>
 <br>
 ### My skills and tools:
 <div>
